@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Singapore Battle 3.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Singapore_Battle_3_0_jar</output-path>
+    <root id="archive" name="Singapore Battle 3.0.jar">
+      <element id="module-output" name="Singapore Battle 3.0" />
+      <element id="library" level="project" name="res" />
+    </root>
+  </artifact>
+</component>
